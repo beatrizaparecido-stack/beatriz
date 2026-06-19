@@ -1,4 +1,4 @@
-numero = 5
+temperatura = 38
 
-if numero > 8:
-    print("numero")
+if temperatura > 25:
+    print("Esta quente")
