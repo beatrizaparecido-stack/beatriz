@@ -1,4 +1,4 @@
-nota = 7
+senha = 1234
 
-if nota >=6:
-    print ("Aprovado")
+if senha == 1234:
+    print("Acesso liberado")
