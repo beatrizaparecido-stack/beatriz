@@ -1,4 +1,4 @@
-temperatura = 38
+nota = 7
 
-if temperatura > 25:
-    print("Esta quente")
+if nota >=6:
+    print ("Aprovado")
