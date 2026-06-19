@@ -1,4 +1,4 @@
-senha = 1234
+chuva = "true"
 
-if senha == 1234:
-    print("Acesso liberado")
+if chuva:
+    print("Fim de semana")
